@@ -9,7 +9,9 @@ An embedded state-machine traffic management system built on the ATmega328P micr
 - **Compiler / IDE:** PlatformIO / GCC C++
 
 ## Schematic & Simulation Preview
-![Simulation Preview](media/simulation_screenshot.png)
+![State 1 Simulation](Media/Screenshot%202026-08-09%20230445.png)
+
+![State 2 Simulation](Media/Screenshot%202026-08-17%20113106.png)
 
 ## Key Technical Features
 - **Deterministic State Timing:** Non-blocking hardware timer logic replacing delay loops.
