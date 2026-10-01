@@ -1,0 +1,22 @@
+# Build outputs
+*.hex
+*.elf
+*.bin
+*.o
+*.obj
+
+# PlatformIO & MPLAB temp files
+.pio/
+nbproject/private/
+nbproject/Makefile-*.mk
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# Proteus temp & cache files
+*.pdsprj.*.workspace
+*.SDF
+*.sts
+*.tmp
